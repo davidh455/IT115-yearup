@@ -1,0 +1,16 @@
+{
+    "name": "David Hoang",
+    "age": 11,
+    "city": "Tukwila, WA",
+    "interests": [
+        "Board Games",
+        "Pickleball",
+        "Reading",
+        "Building",
+        "Videogames",
+        "Math",
+        "David4",
+        "David6"
+    ],
+    "is_student": true
+}
